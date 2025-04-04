@@ -1,0 +1,93 @@
+.header a span {
+    font-family: ui-sans-serif,system-ui,sans-serif,"Apple Color Emoji","Segoe UI Emoji",Segoe UI Symbol,"Noto Color Emoji";
+    color: rgba(139, 38, 53, 1);
+    
+}
+.header a {
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+.header ul{
+    margin-left: 730px;
+    
+}
+.header ul li a{
+   
+    font-weight: 500;
+    position: relative;
+    padding: .25rem .5rem;
+    font-size: 17px;
+    margin-left: 15px;
+    color: "black";
+}
+.header ul li a:hover{
+    text-decoration: underline 2px rgb(139 38 53 )
+}
+.contain h1{
+    color: rgb(139 38 53 );
+    margin-top: 50px;
+}
+.contain p{
+    font-size: 20px
+}
+.contain h2{
+    margin-top: 60px;
+    font-size: 25px;
+}
+.cards span{
+    margin-left:800px;
+    font-size: 15px;
+    color: black
+}
+.cards h4{
+    color: rgb(139 38 53 );
+}
+.cards:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.projects h4{
+    color: rgb(139 38 53 );
+    font-size: 20px;
+}
+.projects p{
+    font-size:14px
+}
+.projects button{
+    background-color:#fbf7f4;
+    margin:2px;
+    padding: 5px;
+    border-radius: 10px; 
+    border: 2px #fbf7f4
+}
+
+.design h4{
+    color: rgb(139 38 53 );
+}
+.buttons button{
+    margin: 5px;
+    background-color:#fbf7f4;
+    padding: 5px;
+    border-radius: 10px; 
+    border: 2px #fbf7f4
+}
+.footer{
+    background-color:rgba(51, 51, 51, 1);
+    height:30vh;
+    color:rgb(255, 255, 255);
+   margin-top: 60px;
+}
+.footer h3{
+  padding-top: 50px;
+}
+.footer i{
+    color: white;
+}
+.footer p a {
+    color: white;
+    text-decoration: none;
+}
+.footer span{
+   margin-left:200px;
+    font-size: 15px
+}

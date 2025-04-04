@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+dist/
+build/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# IDE or text editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Package-lock and yarn lock files
+package-lock.json
+yarn.lock
+
+# Testing and coverage
+coverage/
+*.lcov
+
+# npm package publishing
+*.tgz
+
+# OS generated files
+ehthumbs.db
+Desktop.ini
